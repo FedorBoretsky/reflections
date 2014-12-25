@@ -7,6 +7,14 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	Staging area содержит инофрмацию только о тех файлах, которые были
+	добавлены в нее командой add - этим она отличается от working 
+	diretcory, которая содержит все файлы.
+
+	Repository помимо файлов содержит разные версии этих файлов 
+	и комментарии к каждой версии - этим Repository отличается 
+	как от Staging area так и от workind directory.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 

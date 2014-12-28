@@ -9,4 +9,10 @@ When would you want to use a remote repository rather than keeping all your work
     Когдя я работаю над проектом с разных компьютеров и хочу синхронизировать
     сделанное на каждом рабочем месте.
     
-    
+Why might you want to always pull changes manually rather than 
+having Git automatically stay up-to-date with your remote repository?    
+
+	Remote repository может обновиться другими людьми. Если при этом
+	автоматически обновится среда на моем компьютере я могу потерять
+	изменения сделанные мной и изменения в коде могут быть 
+	неожиданными для меня и будут отвлекать.

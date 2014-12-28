@@ -45,6 +45,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	На диаграмме видно какие вообще ветви есть в проекте, 
+	в какие моменты они возникли. Так же по диаграмме можно 
+	определить к какой функциональности есть доступ у каждой ветки,
+	а какой функциональности доступа нет потому что ответвление было 
+	создано до того как функциональность появилась.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

@@ -1,4 +1,5 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping 
+all your work local?
 
     Когда над проектом работает несколько людей.
     
@@ -6,8 +7,8 @@ When would you want to use a remote repository rather than keeping all your work
     
     Когда я хочу использовать GitHub для резервного копирования.
     
-    Когдя я работаю над проектом с разных компьютеров и хочу синхронизировать
-    сделанное на каждом рабочем месте.
+    Когдя я работаю над проектом с разных компьютеров и хочу 
+    синхронизировать сделанное на разных рабочих местах.
     
 Why might you want to always pull changes manually rather than 
 having Git automatically stay up-to-date with your remote repository?    
@@ -66,3 +67,9 @@ When would you use one instead of another?
 				но знаю что буду работать на нескольких компьютерах или
 				хочу использовать GitHub как backup-сервер. Поэтому
 				сразу создаю проект-копию на сервере с помощью Fork. 
+
+What is the benefit of having a copy of the last known state 
+of the remote stored locally?
+
+	??? Можно увидеть изменения которые я внес в код после последней
+	синхронизации. 
